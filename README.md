@@ -1,4 +1,5 @@
 ################################
-# shadesproject
-Arduino controlled window shades
+# shadesproject #
+Arduino controlled window shades    
+
 ################################
